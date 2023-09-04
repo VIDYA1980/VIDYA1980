@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidya1980&label=Profile%20views&color=0e75b6&style=flat" alt="vidya1980" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidya1980" alt="vidya1980" /></a> </p>
-
-- 🔭 I’m currently working on **Smart india hackathon**
+   🔭 I’m currently working on "Smart india hackathon"
 
 - 🌱 I’m currently learning **Java,React,Open source programming,Snowflake**
 
@@ -15,6 +10,12 @@
 - 📫 How to reach me **vidyaa265@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hqfLInZwW1lJc1Nl9BDiyOBVYnhbIhCY/view?usp=sharing](https://drive.google.com/file/d/1hqfLInZwW1lJc1Nl9BDiyOBVYnhbIhCY/view?usp=sharing)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vidya1980&label=Profile%20views&color=0e75b6&style=flat" alt="vidya1980" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidya1980" alt="vidya1980" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
