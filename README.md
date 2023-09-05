@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vidya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
-- 🔭 I’m currently working on **Smart india hackathon**
+- 🔭 I’m currently working on **exploring different programming languages**
 
 - 🌱 I’m currently learning **Java,React,Open source programming,Snowflake**
 
