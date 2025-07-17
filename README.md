@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋 , I'm Vidya</h1>  
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
-👩‍💻 I’m currently working as an **SDE at Amazon**.
+-👩‍💻 I’m currently working as an SDE at Amazon.
 
-🔭 Actively exploring different technologies and sharpening my problem-solving skills.
+-🔭 Actively exploring different technologies and sharpening my problem-solving skills.
 
-🌱 I’m currently learning **Java**, **React**, **Open Source Development**, and **Snowflake**.
 
-💬 Ask me about **Machine Learning**, **Python**, **AI**, **Operating Systems**, and **Java**.
+-🌱 I’m currently learning **Java**, **React**, **Open Source Development**, and **Snowflake**.
+
+
+-💬 Ask me about **Machine Learning**, **Python**, **AI**, **Operating Systems**, and **Java**.
 
 
 - 📫 How to reach me **vidyaa265@gmail.com**
