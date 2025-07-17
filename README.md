@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vidyaa265@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hqfLInZwW1lJc1Nl9BDiyOBVYnhbIhCY/view?usp=sharing](https://drive.google.com/file/d/1hqfLInZwW1lJc1Nl9BDiyOBVYnhbIhCY/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11Gew0f0qof1Ma7YMC6uVyOS72LHiN9Bj/view?usp=sharing](https://drive.google.com/file/d/11Gew0f0qof1Ma7YMC6uVyOS72LHiN9Bj/view?usp=sharing)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidya1980&label=Profile%20views&color=0e75b6&style=flat" alt="vidya1980" /> </p>
